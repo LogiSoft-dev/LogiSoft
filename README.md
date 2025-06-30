@@ -67,25 +67,23 @@ Consolidar o conhecimento técnico aprendido no curso através da construção d
 
 - **Java** (linguagem principal)
 - **Java Swing** (interface gráfica)
-- **Git** (controle de versão)
 - **GitHub** (repositório e colaboração)
 - **NetBeans / VS Code** (IDE para desenvolvimento)
 - **Canva** (criação de logotipo e identidade visual)
-- **Trello** (organização de tarefas e cronograma)
 
 ---
 
-## 🧱 Estrutura do Repositório
+# 📁 Estrutura do Repositório 
 
-NOME\_DO\_PROJETO/
-├── README.md                → Descrição geral do projeto
-├── CF/                      → Códigos-fonte principais
-├── DESIGN/                  → Arte, logotipo, mockups
-├── UML/                     → Diagramas UML das classes
-├── MBD/                     → Modelo de banco de dados (se houver)
-├── ICONS/                   → Ícones da interface
-├── ÚTEIS/                   → Materiais complementares
-├── PPTX/                    → Apresentação final (slides)
+Este repositório está organizado para facilitar a leitura e manutenção do projeto. Abaixo, a descrição de cada pasta:
+
+- **CF/** → Códigos-fonte em Java (Login, Calculadora, Jogo da Velha)
+- **DESIGN/** → Logotipo, identidade visual e artes
+- **UML/** → Diagramas UML do sistema (classes, casos de uso)
+- **MBD/** → Modelo de banco de dados (se houver)
+- **ICONS/** → Ícones utilizados na interface gráfica
+- **ÚTEIS/** → Materiais complementares, rascunhos e anotações
+- **PPTX/** → Slides da apresentação final
 
 ---
 
