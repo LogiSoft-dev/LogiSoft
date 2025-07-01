@@ -1,5 +1,5 @@
 
-## 📱 Descrição
+## 📱 Referências
 
 Este projeto é um aplicativo educacional desenvolvido como parte de um trabalho prático. Ele contém três funcionalidades principais:
 
